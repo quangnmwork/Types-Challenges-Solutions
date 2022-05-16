@@ -10,4 +10,4 @@ const Enginner: MyReadonly<Person> = {
   name: 'Quang',
 };
 console.log(Enginner);
-// Enginner.name = 'Guys'; // error here
+// Enginner.name = 'Guys'; // error
